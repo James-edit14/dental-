@@ -1,0 +1,18 @@
+User Manual, Dental Care 
+
+Home Page:
+
+first you have to seen a loading screen after loading screen you can see a home page with nav bar in nav bar we have logo, our company name, search bar, home,
+shop, services, contact us, sign up, login buttons.
+
+After Nav bar we have some titles, appointemnt button, some services, reviews and then footer.
+
+
+
+Shop:
+In shop we have some products to sell. In shop we also have filters to apply.
+
+
+
+Services:
+In services we have some treatment offer as you need and when you click on the book now button the appointment form appears.
